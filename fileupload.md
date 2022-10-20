@@ -12,10 +12,6 @@ The impact of file upload vulnerabilities generally depends on two key factors:
 
 -> What restrictions are imposed on the file once it has been successfully uploaded.
 
-# Conclusions
-
-The given website is safe from file upload vulnerability because the website doesn't give any kind of permission to user or guests to upload any file .
-
 # Things tried on the website for the vulnerability 
 
 1. First tried to upload a simple jpeg file on this directory (/Home/UploadImage)
@@ -23,3 +19,7 @@ The given website is safe from file upload vulnerability because the website doe
 Error!)
 3. From this message we get to know that no type of file can be uploaded
 4. File type used to upload (jpg, jpeg , png )
+
+# Conclusions
+
+The given website is safe from file upload vulnerability because the website doesn't give any kind of permission to user or guests to upload any file .
